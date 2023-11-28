@@ -36,6 +36,9 @@ Here's how to get started:
 - You must always do the challenges in order. You won't be given day 2's puzzle without first completing day 1.
 - Don't forget to complete the challenge without AI help.
 
+<br />
+<br />
+
 ## Join the conversation
 Remember that you can take advantage of the #advent-of-code Discord channel, where you can hangout with other ZTM students completing the challenges and support each other. Just remember to be careful not to share spolers directly in the chat. Do not post your code directly in Discord, post the link instead so other students can enjoy the chat without spoiling the puzzle.  
 
