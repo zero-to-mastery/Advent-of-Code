@@ -4,14 +4,14 @@
 
 Advent of Code (AoC) is an advent calendar for programmers, where each day of December you are provided with a new problem to solve with a language of your choice. Each year has a fantastic plot and story line you can follow along with as you solve each days challenge.
 
-Every day for 25 days this month you have two small programming challenges that you need to solve to complete the "tree" and help the elves with their mission. Each day, the questions get a little bit harder to really push you to learn and improve your programming skills.
+Every day for 25 days this month you have programming challenges that you need to solve to complete the "tree" and help the elves with their mission. Each day, the questions get a little bit harder to really push you to learn and improve your programming skills.
 
 <br />
 <br />
 
 ## ZTM Solutions Hub
 
-We have created a special area for the ZTM community to share their solutions and code each day, see what others have done, and vote for your favourite solutions. We even have a leaderboard!
+We have created a special area for the ZTM community to share their solutions and code each day, see what others have done, and vote for your favourite solutions. We even have a leaderboard! This website was built by past ZTM students!
 
 [ZTM Solutions](https://aoc.zerotomastery.io)
 
@@ -19,7 +19,7 @@ We have created a special area for the ZTM community to share their solutions an
 <br />
 
 ## How to participate:
-In order to get started with Advent of Code, it is recommended that you watch the [Exercise: Santa's Node Helper](https://academy.zerotomastery.io/courses/697434/lectures/12676702) and [Solution: Santas Node Helper](https://academy.zerotomastery.io/courses/697434/lectures/12676701) lectures, where Andrei shows you how he goes about solving one of the problems. Even if you are not enrolled in the course, these two videos are free to preview to help you make the most of Advent of Code. 
+In order to get started with Advent of Code, it is recommended that you watch the [Exercise: Santa's Node Helper](https://academy.zerotomastery.io/courses/697434/lectures/12676702) and [Solution: Santas Node Helper](https://academy.zerotomastery.io/courses/697434/lectures/12676701) lectures, where Andrei shows you how he goes about solving one of the problems from 2015 challenge. Even if you are not enrolled in the course, these two videos are free to preview to help you make the most of Advent of Code. 
 
 Here's how to get started: 
 1. Head on over to the [Official Advent of Code](https://adventofcode.com/) website, log in and open the puzzle for day one
@@ -40,7 +40,7 @@ Here's how to get started:
 <br />
 
 ## Join the conversation
-Remember that you can take advantage of the #advent-of-code Discord channel, where you can hangout with other ZTM students completing the challenges and support each other. Just remember to be careful not to share spolers directly in the chat. Do not post your code directly in Discord, post the link instead so other students can enjoy the chat without spoiling the puzzle.  
+Remember that you can take advantage of the #advent-of-code Discord channel, where you can hangout with other ZTM students completing the challenges and support each other, or ask questions.
 
 <br />
 <br />
